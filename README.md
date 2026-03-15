@@ -15,11 +15,20 @@ Key steps include:
 * 📉 Using the Elbow Method to determine the optimal number of clusters
 * 📊 Visualizing relationships between clusters and happiness scores
 
-### 📈 Visualization
-Scatter plots are used to explore relationships between economic and social indicators.
+### 📊 Visualizations
+**GDP per Capita vs Perceptions of Corruption**
 
-### GDP per Capita vs Perceptions of Corruption
+<img src="GDP%20per%20capital%20vs%20Perceptions%20of%20corruption.png" width="600" />
 
-![GDP vs Corruption](images/GDP%20per%20capital%20vs%20Perceptions%20of%20corruption.png)
+**GDP per Capita vs Score**
 
+<img src="GDP%20per%20capital%20vs%20Score.png" width="600" />
+
+**GDP vs Clusters**
+
+<img src="GDP%20vs%20Clusters.png" width="600" />
+
+**Graphical Visualization of Clusters**
+
+<img src="Graphical%20Visualization%20of%20Clusters.png" width="600" />
 
